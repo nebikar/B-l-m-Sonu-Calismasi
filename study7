@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kar Family</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Home Page</a>
+                </li>
+                <li>
+                    <a href="about-us.html">About-us</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Navbar - End -->
+
+    <!-- Content - Start -->
+    <section>
+
+    
+        <!-- Article - Start -->
+        <article>
+            <h2>1st</h2>
+            <img height="100" src="images/KARs.jpeg" alt="KARs">
+            <P>Lorem ipsum dolor sit amet.</P>
+            <P>Suscipit ad est aut beatae?</P>
+            <P>Sint, veritatis. Reprehenderit, sit dolorum.</P>
+            <P>Quis ut exercitationem ipsam in.</P>
+            <P>Vitae illum officiis saepe maiores?</P>
+        </article>
+        <article>
+            <h2>2nd</h2>
+            <img height="100" src="images/sk.jpeg" alt="KARs">
+            <P>Lorem ipsum dolor sit amet.</P>
+            <P>Suscipit ad est aut beatae?</P>
+            <P>Sint, veritatis. Reprehenderit, sit dolorum.</P>
+            <P>Quis ut exercitationem ipsam in.</P>
+            <P>Vitae illum officiis saepe maiores?</P>
+        </article>
+        <article>
+            <h2>3rd</h2>
+            <img height="100" src="images/nk.jpeg" alt="KARs">
+            <P>Lorem ipsum dolor sit amet.</P>
+            <P>Suscipit ad est aut beatae?</P>
+            <P>Sint, veritatis. Reprehenderit, sit dolorum.</P>
+            <P>Quis ut exercitationem ipsam in.</P>
+            <P>Vitae illum officiis saepe maiores?</P>
+        </article>
+        <!-- Article - End -->
+
+    </section>
+    <!-- Content - End -->
+
+    <!-- Footeer - Start -->
+    <nav>
+        <ul>
+            <li>
+                <a href="index.html">Home Page</a>
+            </li>
+            <li>
+                <a href="about-us.html">About-us</a>
+            </li>
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>
+        </ul>
+    </nav>
+    <!-- Footer - End -->
+</body>
+</html>
